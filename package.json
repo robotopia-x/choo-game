@@ -1,0 +1,30 @@
+{
+  "name": "@robotopia/choo-game",
+  "version": "1.0.0",
+  "description": "component based game engine build on top of choo models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robotopia-x/choo-game.git"
+  },
+  "keywords": [
+    "game",
+    "choo",
+    "component",
+    "engine",
+    "turn-based"
+  ],
+  "author": "Paul Sonnentag <Paul.Sonnentag@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robotopia-x/choo-game/issues"
+  },
+  "homepage": "https://github.com/robotopia-x/choo-game#readme",
+  "dependencies": {
+    "immutability-helper": "^2.1.1",
+    "lodash": "^4.17.4"
+  }
+}
